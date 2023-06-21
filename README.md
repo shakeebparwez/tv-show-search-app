@@ -29,4 +29,10 @@ This repository contains a TV Show Search App built with HTML, CSS (utilizing th
 4. Search for TV shows: Enter the name of a TV show in the search bar and press the search button.
 5. View results: The app will display relevant TV show information based on your search query.
 
+## Acknowledgments
+
+- [Colt Steele`s Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- [tvmaze.com](https://www.tvmaze.com/api)
+- [Axios](https://github.com/axios/axios)
+
 Feel free to explore the codebase, modify it, and enhance the app's functionality to suit your needs.
