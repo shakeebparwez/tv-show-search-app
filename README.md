@@ -17,6 +17,10 @@ This repository contains a TV Show Search App built with HTML, CSS (utilizing th
 - JavaScript: The app leverages JavaScript to handle user interactions and make HTTP requests to the TVmaze.com API.
 - Axios Library: Axios is used to simplify the process of making HTTP requests and handling responses from the TVmaze.com API.
 
+## Live Demo
+
+[Try me!](https://shakeebparwez.github.io/tv-show-search-app/)
+
 ## Usage
 
 1. Clone the repository: Clone this repository to your local machine using the `git clone` command.
