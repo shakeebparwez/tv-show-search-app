@@ -32,7 +32,7 @@ This repository contains a TV Show Search App built with HTML, CSS (utilizing th
 ## Acknowledgments
 
 - [Colt Steele`s Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- [tvmaze.com](https://www.tvmaze.com/api)
-- [Axios](https://github.com/axios/axios)
+- [TVmaze.com](https://www.tvmaze.com/api)
+- [Axios Library](https://github.com/axios/axios)
 
 Feel free to explore the codebase, modify it, and enhance the app's functionality to suit your needs.
