@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV Show Search App</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+</head>
+
+<body style="background-color: black;">
+    <div></div>
+    <section>
+        <h1 class="title is-1 has-text-light" style="text-align: center">TV Show Search</h>
+            <form id="searchForm" class="mt-4">
+                <center>
+                    <input class="input is-rounded is-inline is-info" type="text" placeholder="TV Show Title"
+                        id="searchInput" name="query">
+                    <button class=" button is-info is-rounded is-hoverable">Search</button>
+                </center>
+            </form>
+            <div></div>
+            <table class="table is-fullwidth is-hoverable">
+                <thead class="title is-4 has-background-primary">
+                    <tr>
+                        <th width="20%" style="text-align: center;">Image</th>
+                        <th width="20%"" style=" text-align: center;">TV Show Name</th>
+                        <th width="60%" style="text-align: center;">Summary</th>
+                    </tr>
+                </thead>
+                <tbody id="tBody" class="title is-6 has-background-link-light">
+
+                </tbody>
+            </table>
+    </section>
+    <script src="app.js"></script>
+
+</body>
+
+</html>
