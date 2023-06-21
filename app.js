@@ -7,7 +7,7 @@ form.addEventListener('keyup', async (e) => {
 	tbody.innerText = '';
     const searchTerm = form.elements.query.value;
     const config = { params: { q: searchTerm } }
-    const res = await axios.get(`http://api.tvmaze.com/search/shows/`, config)
+    const res = await axios.get(`https://api.tvmaze.com/search/shows/`, config)
 
 	for (let i = 0; i < res.data.length; i++) {
 		const tr = document.createElement('tr');
