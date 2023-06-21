@@ -2,6 +2,8 @@
 
 This repository contains a TV Show Search App built with HTML, CSS (utilizing the Bulma framework), and JavaScript (with the Axios library) to fetch TV show data from the TVmaze.com API.
 
+![screenshot](app_screenshot.png)
+
 ## Features
 
 - Search for TV shows: Users can enter the name of a TV show they are interested in and retrieve relevant information.
